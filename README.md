@@ -74,3 +74,11 @@ Through this project, I learned and practiced:
 ---
 
 ⭐ If you find this project useful, feel free to star the repository!
+
+## Project Demo
+
+Watch the complete demonstration of the Library Management System:
+
+▶️ Watch Project Demo on YouTube
+https://youtu.be/-wySEed8GKw
+
